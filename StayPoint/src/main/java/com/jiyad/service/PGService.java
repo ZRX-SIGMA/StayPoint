@@ -1,7 +1,6 @@
 package com.jiyad.service;
 
 import com.jiyad.model.PG;
-import com.jiyad.dto.PGUpdateDTO;
 import com.jiyad.repository.PGRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

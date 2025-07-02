@@ -1,7 +1,6 @@
 package com.jiyad.controller;
 
 import com.jiyad.model.PG;
-import com.jiyad.dto.PGUpdateDTO;
 import com.jiyad.service.PGService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
